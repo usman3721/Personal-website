@@ -90,13 +90,14 @@ hr{
 .profile{
     border-radius: 50%;
     padding-top: 20px;
-}
+}   
 .skill-row{
     width: 50%;
     margin: 100px auto 100px auto;
     text-align: left;
     
 }
+
 
 .btn{
     background-color:#11999E;
@@ -121,10 +122,12 @@ hr{
     font-size: 22px;
     text-decoration: none
 }
+.footer-linkA:hover{
+    color: white;
+}
 .footer-linkB:hover{
     color: white;
 }
-
 .footer-linkA{
     padding-top: 100px;
     font-style: 'Montserrat', sans-serif;
@@ -133,9 +136,9 @@ hr{
     font-size: 22px;
     text-decoration: none
 }
-.footer-linkA:hover{
-    color: white;
-}
+
+
+
 
 
    
