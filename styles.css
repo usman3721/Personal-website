@@ -1,0 +1,142 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 190%;
+    color: #40514E;
+}
+
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin-top: 50px;
+    margin: 70 auto 0 auto;
+    color: #66BFBF;
+}
+.pro{
+    text-decoration: underline;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+    padding-bottom: 10px;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 20px;
+    color: #66BFBF;
+    padding-bottom: 10px;
+
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    font-weight: normal;
+}
+p{
+    line-height: 1.5;
+}
+hr{
+    border:dotted grey 6px;
+    border-bottom:none;
+    margin: 100px auto;
+    width: 4%;
+}
+
+
+.top-container{
+    background-color:#E4F9F5;
+    position: relative;
+    padding-top: 100px;   
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 15px 0;
+}
+.middle-container{
+    margin: 100px;
+    background-color:#E4F9F5;
+    margin: auto;
+}
+.top-cloud{
+    position: absolute;
+    right: 250px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 1px;
+    bottom: 300px;
+}
+.Python{
+    border-radius: 50%;
+    line-height: 2;
+    float: left;
+    margin-right: 30px;
+}
+.ML{
+    border-radius: 50%;
+    line-height: 2;
+    float: left;
+    margin-right: 30px;
+}
+.ELE{
+    border-radius: 50%;
+    line-height: 2;
+    float: right;
+    margin-right: 30px;
+}
+.profile{
+    border-radius: 50%;
+    padding-top: 20px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+}
+
+.btn{
+    background-color:#11999E;
+    color: #EAF6F6;
+    font-size: 40px;
+    border-radius: 9px 9px 9px 9px;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+.btn:hover{
+    color: green;
+}
+.copyright{
+    color: #EAF6F6;
+    font-size: 0.7;
+    padding-bottom: 0px;
+}
+.footer-linkB{
+    font-style: 'Montserrat', sans-serif;
+    margin-left: 40px;
+    color: #11999E;
+    font-size: 22px;
+    text-decoration: none
+}
+.footer-linkB:hover{
+    color: white;
+}
+
+.footer-linkA{
+    padding-top: 100px;
+    font-style: 'Montserrat', sans-serif;
+    margin-left: 40px;
+    color: #11999E;
+    font-size: 22px;
+    text-decoration: none
+}
+.footer-linkA:hover{
+    color: white;
+}
+
+
+   
+    
